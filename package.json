@@ -39,7 +39,7 @@
     "gulp-util": "3.0.1",
     "lodash": "2.4.1",
     "protractor": "4.0.11",
-    "webdriver-manager": "10.2.8"
+    "webdriver-manager": "12.0.4"
   },
   "devDependencies": {
     "chai": "1.10.0",
